@@ -1,4 +1,6 @@
 package pe.edu.cibertec.myapplication.fragments
 
-class Pregunta3Fragment {
+import androidx.fragment.app.Fragment
+
+class Pregunta3Fragment : Fragment() {
 }
