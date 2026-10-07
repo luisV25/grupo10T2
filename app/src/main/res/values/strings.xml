@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">appgrupo10</string>
+    <string name="title_pregunta_6">Pregunta 6 - Listado de Recetas</string>
+    <string name="btn_cargar">Cargar</string>
+    <string name="msg_loading">Cargando recetas&#8230;</string>
+    <string name="msg_error">Error al cargar recetas</string>
+    <string name="recipe_id_format">ID: %1$d</string>
+    <string name="recipe_prep_time_format">Tiempo de prep: %1$d min</string>
+    <string name="recipe_difficulty_format">Dificultad: %1$s</string>
 </resources>
