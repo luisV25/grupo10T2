@@ -1,3 +1,11 @@
 <resources>
+
     <string name="app_name">appgrupo10</string>
+
+    <string name="recipe_id_format">ID: %1$d</string>
+    <string name="recipe_prep_time_format">Tiempo de preparación: %1$d min</string>
+    <string name="recipe_difficulty_format">Dificultad: %1$s</string>
+    <string name="title_pregunta_6">Recetas - Pregunta 6</string>
+    <string name="btn_cargar">Cargar recetas</string>
+
 </resources>
