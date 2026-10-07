@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">appgrupo10</string>
+    <string name="ListPreguntas">Lista de Preguntas</string>
+    <string name="ListPregunta">Pregunta5-3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
