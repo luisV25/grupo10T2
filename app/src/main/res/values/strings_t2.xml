@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_pregunta1">Pregunta 1</string>
+    <string name="nav_pregunta2">Pregunta 2</string>
+    <string name="nav_pregunta3">Pregunta 3</string>
+    <string name="nav_pregunta4">Pregunta 4</string>
+
+    <string name="merma_titulo">Mermas en lote de confección textil</string>
+    <string name="merma_hint">Prendas defectuosas</string>
+    <string name="merma_calcular">Calcular</string>
+    <string name="merma_error_vacio">Ingrese la cantidad de prendas defectuosas</string>
+    <string name="merma_dentro_margen">Nivel de merma dentro del margen admisible.</string>
+    <string name="merma_fallas">Fallas registradas: %1$d</string>
+    <string name="merma_exceso">Exceso de prendas defectuosas: %1$d</string>
+    <string name="merma_total">Descuento total por reposición: %1$s</string>
+
+    <string name="placeholder_fragment">Fragment pendiente de integrar</string>
+</resources>
